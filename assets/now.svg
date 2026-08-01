@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&amp;display=swap');
+      .t { font-family: 'IBM Plex Mono', ui-monospace, monospace; font-weight: 500; }
+    </style>
+  </defs>
+  <rect width="900" height="72" fill="#F4F7FA"/>
+  <rect x="0" y="0" width="900" height="3" fill="#0066FF"/>
+  <text x="24" y="44" class="t" font-size="18" fill="#122033">A59G0A CGC · python · cli · tui · =51>;LH85 ?@8;>65=8O</text>
+</svg>
